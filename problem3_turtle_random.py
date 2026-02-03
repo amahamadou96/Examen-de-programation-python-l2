@@ -44,19 +44,6 @@ def main():
     formes = ["carre", "triangle", "cercle"]
     couleurs = ["red", "blue", "green", "yellow", "orange", "purple", "pink", "cyan"]  
     for i in range(nombre):
-        forme = random.choice(formes)
-        couleur = random.choice(couleurs)
-        x = random.randint(-300, 300)
-        y = random.randint(-200, 200)
-        taille = random.randint(20, 100)     
-        if forme == "carre":
-            dessiner_carre(stylo, x, y, taille, couleur)
-        elif forme == "triangle":
-            dessiner_triangle(stylo, x, y, taille, couleur)
-        else:
-            dessiner_cercle(stylo, x, y, taille, couleur)   
-    stylo.hideturtle()
-    fenetre.exitonclick()
     print("========================================================") 
     print("\tFIN DU PROGRAMME Dessin Graphique avec Turtle")
     print("\t*Mahamadou Soumaila Abdoulahic*")
