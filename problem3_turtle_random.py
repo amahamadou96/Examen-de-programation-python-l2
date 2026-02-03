@@ -44,9 +44,11 @@ def main():
     formes = ["carre", "triangle", "cercle"]
     couleurs = ["red", "blue", "green", "yellow", "orange", "purple", "pink", "cyan"]  
     for i in range(nombre):
+        print ("pas terminer l'exeercie 3")
     print("========================================================") 
     print("\tFIN DU PROGRAMME Dessin Graphique avec Turtle")
     print("\t*Mahamadou Soumaila Abdoulahic*")
     print("=========================================================") 
 if __name__ == "__main__":
     main()
+
