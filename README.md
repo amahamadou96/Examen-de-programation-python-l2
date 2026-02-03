@@ -28,7 +28,7 @@ EXERCICE 2:
 
 
 
-NB: Dans les capture d'ecrant c'est afficher Mahamadou Soumaila Abdoulahic c'est une erreur de saisie c'est Mahamadou Soumaila Abdoulahi les (les etoiles*) j'avais voulue les metre la phrase en italique mais sa na pas marcher pourquoi les (etoiles*) !
+NB: Dans les capture d'ecrant c'est afficher Mahamadou Soumaila Abdoulahic c'est une erreur de saisie c'est Mahamadou Soumaila Abdoulahi les (les etoiles*) j'avais voulue  metre la phrase en italique mais sa na pas marcher pourquoi les (etoiles*) !
 
 
 
