@@ -1,6 +1,6 @@
 # Workspace Python - Exercices et Projets
 
-Bienvenue dans ce workspace contenant tous mes exercices et projets Python pour le cours de cybersécurité L2.
+Bienvenue dans ce workspace contenant la correction de l'examen de python L2 les deux exercie j'ai termienr mais avec la contrainte du temps j'avais pas puis terminer l'exo 3 en entier 
 
 EXERCICE 1
 
@@ -16,9 +16,17 @@ EXERCICE 2:
 
 <img width="488" height="279" alt="image" src="https://github.com/user-attachments/assets/b1acea98-c16d-4342-9c0e-e2c7c6d36f60" />
 
+
+
+
 <img width="488" height="216" alt="image" src="https://github.com/user-attachments/assets/9b5df46d-b324-4795-89c1-130727e90124" />
 
+
+
+
 <img width="504" height="295" alt="image" src="https://github.com/user-attachments/assets/8f25414a-dafb-4188-a3d9-9f99d8eb1c5c" />
+
+
 
 NB: Dans les capture d'ecrant c'est afficher Mahamadou Soumaila Abdoulahic c'est une erreur de saisie c'est Mahamadou Soumaila Abdoulahi les (les etoiles*) j'avais voulue les metre la phrase en italique mais sa na pas marcher pourquoi les (etoiles*) !
 
