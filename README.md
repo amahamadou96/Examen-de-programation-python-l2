@@ -20,7 +20,7 @@ EXERCICE 2:
 
 <img width="504" height="295" alt="image" src="https://github.com/user-attachments/assets/8f25414a-dafb-4188-a3d9-9f99d8eb1c5c" />
 
-
+NB: Dans les capture d'ecrant c'est afficher Mahamadou Soumaila Abdoulahic c'est une erreur de saisie c'est Mahamadou Soumaila Abdoulahi les (*) j'avais voulue les metre la phrase en italique mais sa na pas marcher pourquoi les (*) !
 Auteur: Abdoulahi Mahamadou Soumaila
 Cours: Cybersécurité L2 - Python
 Dernière mise à jour: 2026
