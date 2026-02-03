@@ -37,5 +37,5 @@ NB: Dans les capture d'ecrant c'est afficher Mahamadou Soumaila Abdoulahic c'est
 
 
 Auteur: Abdoulahi Mahamadou Soumaila
-Cours: Cybersécurité L2 - Python
+Examen: Cybersécurité L2 - Python
 Dernière mise à jour: 2026
